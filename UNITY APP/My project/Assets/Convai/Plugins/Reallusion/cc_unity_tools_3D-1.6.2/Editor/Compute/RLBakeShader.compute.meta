@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8f0206486586f47458d01743f9cbdbc8
+ComputeShaderImporter:
+  externalObjects: {}
+  currentAPIMask: 4
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235621
+  packageName: NPC AI Engine - Dialog, actions, voice and lipsync - Convai
+  packageVersion: 3.0.1
+  assetPath: Assets/Convai/Plugins/Reallusion/cc_unity_tools_3D-1.6.2/Editor/Compute/RLBakeShader.compute
+  uploadId: 672821

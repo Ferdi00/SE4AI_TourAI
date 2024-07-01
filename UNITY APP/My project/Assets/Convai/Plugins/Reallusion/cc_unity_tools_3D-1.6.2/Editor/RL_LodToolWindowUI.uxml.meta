@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2e35adc40ae7a234eaf58b02b790fbcf
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 13804, guid: 0000000000000000e000000000000000, type: 0}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235621
+  packageName: NPC AI Engine - Dialog, actions, voice and lipsync - Convai
+  packageVersion: 3.0.1
+  assetPath: Assets/Convai/Plugins/Reallusion/cc_unity_tools_3D-1.6.2/Editor/RL_LodToolWindowUI.uxml
+  uploadId: 672821

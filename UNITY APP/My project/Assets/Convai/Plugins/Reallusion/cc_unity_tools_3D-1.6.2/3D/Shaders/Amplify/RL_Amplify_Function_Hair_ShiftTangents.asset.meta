@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6dfd3f9332e451e4daa85e7d45af183f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235621
+  packageName: NPC AI Engine - Dialog, actions, voice and lipsync - Convai
+  packageVersion: 3.0.1
+  assetPath: Assets/Convai/Plugins/Reallusion/cc_unity_tools_3D-1.6.2/3D/Shaders/Amplify/RL_Amplify_Function_Hair_ShiftTangents.asset
+  uploadId: 672821

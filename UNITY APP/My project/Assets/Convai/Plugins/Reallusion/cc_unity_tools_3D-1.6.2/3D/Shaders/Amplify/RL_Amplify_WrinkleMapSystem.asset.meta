@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 66048c3ae18f3f84c9195a84e20ae59a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235621
+  packageName: NPC AI Engine - Dialog, actions, voice and lipsync - Convai
+  packageVersion: 3.0.1
+  assetPath: Assets/Convai/Plugins/Reallusion/cc_unity_tools_3D-1.6.2/3D/Shaders/Amplify/RL_Amplify_WrinkleMapSystem.asset
+  uploadId: 672821

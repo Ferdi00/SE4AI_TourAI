@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 43c7460b1b7ff454687beed41df056db
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235621
+  packageName: NPC AI Engine - Dialog, actions, voice and lipsync - Convai
+  packageVersion: 3.0.1
+  assetPath: Assets/Convai/Plugins/Reallusion/cc_unity_tools_3D-1.6.2/3D/Material
+    Templates/RL_Template_Baked_HairCustom_1st_Pass_3D.mat
+  uploadId: 672821

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a5f867d2d6ed981449176e76dbbd7330
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235621
+  packageName: NPC AI Engine - Dialog, actions, voice and lipsync - Convai
+  packageVersion: 3.0.1
+  assetPath: Assets/Convai/Plugins/Reallusion/cc_unity_tools_3D-1.6.2/3D/Material
+    Templates/Tessellation/RL_Template_Baked_Skin_3D_T.mat
+  uploadId: 672821

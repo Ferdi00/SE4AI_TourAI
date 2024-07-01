@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fd50ac59639bb2a41a4d7e5c855dea2b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235621
+  packageName: NPC AI Engine - Dialog, actions, voice and lipsync - Convai
+  packageVersion: 3.0.1
+  assetPath: Assets/Convai/Plugins/Reallusion/cc_unity_tools_3D-1.6.2/3D/Shaders/RL_EyeOcclusionShader_3D.shader
+  uploadId: 672821
